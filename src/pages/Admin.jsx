@@ -1,0 +1,12 @@
+
+// Display the admin dashboard
+function Admin() {
+  return (
+    <div>
+      <h1>Admin Dashboard</h1>
+      <p>Welcome to the Admin Dashboard.</p>
+    </div>
+  );
+}
+
+export default Admin;
